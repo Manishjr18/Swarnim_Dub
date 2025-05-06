@@ -4,7 +4,7 @@ This project is a **clone** of the Swarnim website from **Ganga Realty**. The ai
 
 ## Demo
 
-Currently, the project is running locally. You can view it by following the steps below.
+Currently, the project is running locally. You can view it cloning.
 
 ## Features
 
